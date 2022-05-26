@@ -1,5 +1,4 @@
-
-
+#Como o algoritmo ficaria no primeiro looping
 
 myList = [5, 4 , 4, 6, 7, 15, 1, 3] --> [5, 5] -> 4,5....
 
