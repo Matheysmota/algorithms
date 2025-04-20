@@ -23,7 +23,7 @@ Here you will find:
 - Kotlin
 - Dart
 - Python
-- Java (in some cases)
+- C
 - Markdown (for notes)
 
 ---
